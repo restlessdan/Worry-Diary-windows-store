@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\djric\\Documents\\Visual Studio 2017\\Projects\\Worry-Diary-windows-store\\Worry Diary\\Worry_Diary.UWP\\Worry_Diary.UWP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\djric\\Documents\\Visual Studio 2017\\Projects\\Worry-Diary-windows-store\\Worry Diary\\Worry_Diary.UWP\\Worry_Diary.UWP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\djric\\Documents\\Visual Studio 2017\\Projects\\Worry-Diary-windows-store\\Worry Diary\\Worry_Diary.UWP\\Worry_Diary.UWP.csproj",
+        "projectName": "Worry_Diary.UWP",
+        "projectPath": "C:\\Users\\djric\\Documents\\Visual Studio 2017\\Projects\\Worry-Diary-windows-store\\Worry Diary\\Worry_Diary.UWP\\Worry_Diary.UWP.csproj",
+        "packagesPath": "C:\\Users\\djric\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djric\\Documents\\Visual Studio 2017\\Projects\\Worry-Diary-windows-store\\Worry Diary\\Worry_Diary.UWP\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\djric\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[2.3.4.247, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
